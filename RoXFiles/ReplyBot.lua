@@ -28,78 +28,78 @@ rd = 'راح احترمكك تره بس هلمره لانك مميز عندي ،
 else
 rd = 'لكك هوه انت عضو وجاي تغلط ؟، 🖕🏿♥️'
 end
-Ali_RoX(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
+Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
 RoXSoURcE =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'السلام عليكم' or text == 'سلام عليكم' then 
 RoXSoURcE =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 𖠙 🤤♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == '😭💔' or text == '😭😭' or text == '😭😭😭' or text == '😿💔' or text == '😭😭😭' or text == '😭😭😭😭' then 
 RoXSoURcE =  "مآآعٍآشُ آلُِي يزعٍلُِڪڪ 𖠙 😏♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
 RoXSoURcE =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
 RoXSoURcE =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
 local RoXSoURcE = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
 DevAbs2 = math.random(#RoXSoURcE) 
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE[DevAbs2] , 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'شونك' or text == 'شونج' or text == 'شلونك' or text == 'شلونج' or text == 'شونكم' or text == 'شلونكم' or text == 'شلخبار' or text == 'شلون الاخبار' or text == 'شخبارك' then 
 local RoXSoURcE = {"ماﺷ͠ يةھَہّ يﻋ̝̚مريي ۅاﻧﺗ̲ت 𖠙 🤤♥️" ,"الحۡمۘدللهۂَ ٰوانۨہتت 𖠙 🤤♥️","تمۘامۘ عمۘري ٰوانۨہتت 𖠙 🤤♥️"} 
 DevAbs2 = math.random(#RoXSoURcE) 
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE[DevAbs2] , 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'وينك' or text == 'وينج' then
 RoXSoURcE =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
 RoXSoURcE =  "اطردكك تجرب ؟ ، 😕🔪"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'نايمين' or text == 'ميتين' then
 RoXSoURcE =  "طُآمسين ووعٍيوونڪ 𖠙 😪🖤ۦ"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'هلوباي' or text == 'هلو باي' then  
 RoXSoURcE =  "شحۡسۜيت مۘنۨہ هيجۚ ּكتبت ؟ 🌝♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
 RoXSoURcE =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md')
 return false
 end
 if text == 'فرخ' then
 RoXSoURcE =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️" 
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md') 
 return false
 end
 if text == 'سورس عبس' or text == 'سورس بروكس' or text == 'سورس ديف بروكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
 RoXSoURcE =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
-Ali_RoX(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, RoXSoURcE, 1, 'md')
 return false
 end
 end
@@ -107,17 +107,17 @@ end
 if Manager(msg) then
 if text == 'تفعيل ردود البوت' or text == 'تفعيل الردود' then
 if not DevAbs:get(RoX..'Abs:Lock:Reply'..msg.chat_id_) then
-Ali_RoX(msg.chat_id_, msg.id_, 1, '⌁︙ردود البوت بالتاكيد مفعله ', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙ردود البوت بالتاكيد مفعله ', 1, 'md')
 else
-Ali_RoX(msg.chat_id_, msg.id_, 1, '⌁︙تم تفعيل ردود البوت', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙تم تفعيل ردود البوت', 1, 'md')
 DevAbs:del(RoX..'Abs:Lock:Reply'..msg.chat_id_)
 end end
 if text == 'تعطيل ردود البوت' or text == 'تعطيل الردود' then
 if DevAbs:get(RoX..'Abs:Lock:Reply'..msg.chat_id_) then
-Ali_RoX(msg.chat_id_, msg.id_, 1, '⌁︙ردود البوت بالتاكيد معطله ', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙ردود البوت بالتاكيد معطله ', 1, 'md')
 else
 DevAbs:set(RoX..'Abs:Lock:Reply'..msg.chat_id_,true)
-Ali_RoX(msg.chat_id_, msg.id_, 1, '⌁︙تم تعطيل ردود البوت', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙تم تعطيل ردود البوت', 1, 'md')
 end end
 end
 end
